@@ -1,6 +1,7 @@
 # Trip Booking API
 
 This is a Spring Boot-based RESTful API for managing trips. It supports basic CRUD operations and custom trip creation using Java, Spring Boot, JPA, and MySQL.
+### Deployed At: https://tripbookingspringapi.onrender.com/api/
 
 ## ✅ Technologies Used
 
