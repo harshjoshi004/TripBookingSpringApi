@@ -29,7 +29,3 @@ This is a Spring Boot-based RESTful API for managing trips. It supports basic CR
 
 * Built this project independently to demonstrate proficiency in Spring Boot and full-stack Java backend development.
 * Includes object-relational mapping, request validation, error handling, and deployment.
-
----
-
-*This project is intended for interview demonstration purposes.*
